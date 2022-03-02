@@ -9,3 +9,5 @@ all is good.
 my name is
 
 king is here
+
+this is for stash branch example
