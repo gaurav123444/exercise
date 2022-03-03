@@ -1,4 +1,4 @@
-Namaste India how are you doing.
+Namaste India what
 
 Hello world, this is new india and we are here to rule.!!
 
